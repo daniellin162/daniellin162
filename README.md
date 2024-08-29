@@ -7,7 +7,7 @@ Web Developer
 Currently, I'm a full stack developer with DevOps experience. In the past year, I have successfully led and launched full stack projects independently along with teams up to 11 while considering system architecture. Lastly, I'm passionate about creation and I'm aiming to make it my career!
 
 * 🌍  I'm based in San Jose
-* 🖥️  See my portfolio at [portfolio](http://daniellin162.github.io/Portfolio/)
+* 🖥️  See my portfolio at [portfolio](https://daniel-lin.netlify.app/)
 * ✉️  You can contact me at [daniellin5885@gmail.com](mailto:daniellin5885@gmail.com)
 * 🧠  I'm learning PostgreSQL
 
